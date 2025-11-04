@@ -1,6 +1,6 @@
-# Web Programming Exercise 6
-Responsive web design pdf: 
-https://drive.google.com/file/d/1JVJt4Gf08HWGkGeYA5IladWNcd6_g8PG/view?usp=sharing
+# Web Programming Exercise 7
+Javascript Introduction: 
+https://drive.google.com/file/d/1SZ1d7YR2tr8-PenM05Lu6wUdnYSCBV_P/view?usp=sharing
 
 ## Exercise 1:
 
