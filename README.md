@@ -16,5 +16,5 @@ Make the box respond to mouse actions and clicks.
 -When clicked → increase the size  
 -When double-clicked → reset size    
 
-https://github.com/user-attachments/assets/5bc06fb8-0e2e-49a5-bc65-3fe61aa583ac
+https://github.com/user-attachments/assets/44177bf7-e91d-4f01-84e3-0ec559dec490
 
