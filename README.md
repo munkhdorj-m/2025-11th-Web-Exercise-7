@@ -20,11 +20,13 @@ https://github.com/user-attachments/assets/44177bf7-e91d-4f01-84e3-0ec559dec490
 
 ## Exercise 3:
 
-Click the button → creates a circle with random color.
-Click a circle → it deletes itself.
+When button is clicked, toggle between light and dark mode by changing:    
+-background color   
+-label (“Switch to Light” / “Switch to Dark”)   
+
+https://github.com/user-attachments/assets/4ed575eb-bd44-4fa9-b0ab-87453128484f
 
 
-https://github.com/user-attachments/assets/fc8c319f-1d84-4f3b-a67c-112581f7adec
 
 
 
